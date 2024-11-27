@@ -3,12 +3,12 @@
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/ic_home"
-        android:title="Featured" />
+        android:title="Home" />
 
     <item
         android:id="@+id/nav_bookmarks"
-        android:icon="@android:drawable/star_on"
-        android:title="Feed" />
+        android:icon="@drawable/ic_bookmark"
+        android:title="Bookmarks" />
 
     <item
         android:id="@+id/nav_profile"

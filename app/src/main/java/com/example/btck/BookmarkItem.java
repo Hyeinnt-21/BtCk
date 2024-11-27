@@ -1,10 +1,11 @@
 package com.example.btck;
-public class FeaturedItem {
+
+public class BookmarkItem {
     private String title;
     private String description;
     private int imageResourceId;
 
-    public FeaturedItem(String title, String description, int imageResourceId) {
+    public BookmarkItem(String title, String description, int imageResourceId) {
         this.title = title;
         this.description = description;
         this.imageResourceId = imageResourceId;
@@ -22,3 +23,4 @@ public class FeaturedItem {
         return imageResourceId;
     }
 }
+
